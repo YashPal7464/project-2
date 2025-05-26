@@ -51,7 +51,7 @@ const Shoppingcart = () => {
         <div className='w-full h-20 bg-white absolute bottom-0 left-0 z-10 grid place-items-center border rounded-lg'>
             <h1 className='text-xl text-gray-600'>Total: {formatCurrency(totalPrice)}</h1>
             <button className='rounded-md bg-blue-300 px-2 text-white hover:bg-blue-400 transition-colors'>
-                Buy Now
+                Buy Now !
             </button>
         </div>
             </div>
